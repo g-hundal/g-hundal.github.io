@@ -14,7 +14,7 @@ Drawing on my foundation in data science and public policy, I specialize in deve
 ## My Journey 
 Passionate about deepening the understanding of gender gaps in education, oral health, and finance, my journey began as the co-founder of [Project Reach Foundation](https://resolutionproject.org/ventures/project-reach/), which aimed to combat bottlenecks in neonatal immunization in rural India. Today, apart from my research endeavors, I am getting my Ph.D. in Public Policy at the University of Chicago, specializing in Development and Behavioral Economics. My prior education in Data Analytics from Carnegie Mellon University has equipped me to work at the fascinating confluence of machine learning and economics. Currently, I am also a researcher at the World Bank Group, and my past engagements include research projects in gender and transport at the Development Impact Evaluation (DIME) team. 
 
-## Current Investigations 
+## Current Research 
 1. **Persistence of Origin-Based Social Norms Among Migrants** _with Naira Kalra and Oyebola Okunogbe_. Investigating the enduring influence of origin-based norms on intimate partner violence among migrants, this study unveils the deep-rooted societal norms influencing migrant behaviors, vital for policy interventions.
 
 2. **Effects of Paid Labor Market Exposure on Transition After High School** _with Emma Zhang_. Exploring the transformative impact of early labor exposure on high school students' post-academic trajectories, this research is pivotal in reshaping educational and labor policies, especially for economically marginalized groups.
