@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<h4>University of Chicago</h4>
+<h4>University of Chicago</h4> 
 * **Instructor** for the masters level course: Mathematical Methods (Fall 2023, Fall 2022).
 * **Preceptor**, advising the senior BA thesis for 11 undergraduate students (2023-24 academic year).
 * **Head Teaching Assistant** for the graduate Math and Coding Camp, leading a team of 24 TAs and serving 500+ students (Summer 2023, Summer 2022).
