@@ -12,4 +12,5 @@ author_profile: true
 * **Teaching Assistant** for graduate courses: Cost-Benefit Analysis (Fall 2022), Behavioral Experiments in International Development: From Theory to Practice (Spring 2023), and an undergraduate course on Behavioral Science and Public Policy (Spring 2023, Spring 2022).
 
 **Carnegie Mellon University**  
+
 I served as a **Teaching Assistant** for several semesters on courses like Research Writing and International Development Economics.
