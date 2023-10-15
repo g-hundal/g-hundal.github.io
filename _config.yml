@@ -11,9 +11,9 @@ title                    : "Rubina Hundal"
 title_separator          : "-"
 name                     : &name "Rubina Hundal"
 description              : &description "personal description"
-url: "https://g-hundal.github.io" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site should be empty for root domain
-repository: "g-hundal/g-hundal.github.io"
+url                      : "https://g-hundal.github.io" # the base hostname & protocol for your site
+baseurl                  : "" # the subpath of your site should be empty for root domain
+repository               : "g-hundal/g-hundal.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rubina Hundal (Gursmeep)"
-  avatar           : "https://g-hundal.github.io/hundal/profile.png"
+  avatar           : "https://g-hundal.github.io/g-hundal.github.io/profile.png"
   bio              :  "       "
   location         : "Chicago, United States"
   employer         :
