@@ -22,4 +22,4 @@ My prior education in Data Analytics from Carnegie Mellon University has equippe
 
 3. **Gendered Attitudes Towards Financial Risk: Gain Preferences versus Loss Aversion** _with Emma Zhang_. Delving into gender-specific financial behaviors, and emphasizing reactions to potential losses versus gains, the findings help us understand and address gender disparities in financial decision-making landscapes.
 
-4. **Effects of Poor Oral Health on Systemic Health Outcomes** _with Maya Lozinski_. Examining the broader health and socio-economic repercussions of oral health disparities, with potential implications for labor and healthcare policies as well as public awareness.
+4. **Effects of Poor Oral Health on Systemic Health Outcomes** _with Maya Lozinski_. Examining the broader health and socio-economic repercussions of oral health disparities, with potential implications for labor and healthcare policies as well as public awareness of oral health.
