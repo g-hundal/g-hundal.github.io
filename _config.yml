@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Rubina's Homepage"
 title_separator          : "-"
-name                     : &name "Rubina Hundal"
+name                     : ""
 description: "Rubina Hundal (Gursmeep) - Development Economics Researcher focusing on gender disparities, labor markets, behavioral economics, and public policy. University of Chicago Ph.D. Candidate."
 url                      : "https://g-hundal.github.io" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site should be empty for root domain
