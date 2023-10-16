@@ -21,4 +21,5 @@ My ongoing research projects include the exploration of:
 - **Early Labor Exposure:** Analyzing its impact on post-high school trajectories.
 - **Gendered Financial Behaviors:** Emphasizing nuances in the context of gains and losses.
 - **Oral Health Disparities:** Exploring their broader socio-economic consequences.
-For detailed descriptions of these projects and more on my past research contributions, [visit my Research page](https://g-hundal.github.io/research/).
+
+For details on these projects and more on my past research contributions, [visit my Research page](https://g-hundal.github.io/research/).
