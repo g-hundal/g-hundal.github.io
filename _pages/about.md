@@ -16,9 +16,9 @@ My journey into development began as the co-founder of [Project Reach Foundation
 My prior education in Data Analytics from Carnegie Mellon University has equipped me to work at the fascinating confluence of machine learning and economics. Currently, I am also a researcher at the World Bank Group, and my past work includes research projects in gender and transport at the Development Impact Evaluation (DIME) team. 
 
 ## Current Research Highlights
-Some of the key topics I'm currently delving into include:
-- The influence of origin-based norms on intimate partner violence among migrants.
-- Impact of early labor exposure on post-high school trajectories.
-- Gender-specific financial behaviors, especially in the context of gains and losses.
-- Broader socio-economic consequences of oral health disparities.
-For detailed descriptions and more on my past research contributions, [visit the Research tab](/research/).
+My ongoing research projects include the exploration of:
+- **Origin-Based Norms:** Understanding their influence on intimate partner violence among migrants.
+- **Early Labor Exposure:** Analyzing its impact on post-high school trajectories.
+- **Gendered Financial Behaviors:** Emphasizing nuances in the context of gains and losses.
+- **Oral Health Disparities:** Exploring their broader socio-economic consequences.
+For detailed descriptions of these projects and more on my past research contributions, [visit my Research page](https://g-hundal.github.io/research/).
