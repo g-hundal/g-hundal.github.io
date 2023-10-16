@@ -69,26 +69,29 @@
    Author profile and links
    ========================================================================== */
 
-
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 200px;   // This will set the width of the image container
-  height: 200px;  // This will set the height of the image container
+  width: 100%;   // Set to full width of sidebar
+  height: 0;     // Initially set to 0
+  padding-bottom: 100%;  // This makes the height equal to the width, creating a square shape
+  position: relative;    // To allow absolute positioning of child elements
 
   @include breakpoint($large) {
     display: block;
-    width: 200px;   // Adjust this as needed for larger screens
-    height: 200px;  // Adjust this as needed for larger screens
   }
 
   img {
-    width: 100%;    // This ensures the image takes up the full width of its container
-    height: 100%;   // This ensures the image takes up the full height of its container
-    border-radius: 0;  // This ensures the image is not circular
+    width: 100%;           // Fill the width of the container
+    height: 100%;          // Fill the height of the container
+    border-radius: 0;      // Ensure the image is square
+    position: absolute;    // Position inside the container
+    top: 0;
+    left: 0;
+    object-fit: cover;     // Ensure the image covers the container while maintaining its aspect ratio
 
     @include breakpoint($large) {
-      padding: 3px;
+      padding: 5px;
       border: 1px solid $border-color;
     }
   }
