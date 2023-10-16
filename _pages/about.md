@@ -18,7 +18,7 @@ My prior education in Data Analytics from Carnegie Mellon University has equippe
 ## Current Research Highlights
 My ongoing research projects include the exploration of:
 - **Origin-Based Norms:** Understanding their influence on intimate partner violence among migrants.
-- **Early Labor Exposure:** Analyzing its impact on post-high school trajectories.
+- **Labor-Market Exposure:** Analyzing its impact on post-high school trajectories.
 - **Gendered Financial Behaviors:** Emphasizing nuances in the context of gains and losses.
 - **Oral Health Disparities:** Exploring their broader socio-economic consequences.
 
