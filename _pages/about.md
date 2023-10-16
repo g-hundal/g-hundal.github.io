@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Rubina Hundal"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
