@@ -70,33 +70,22 @@
    ========================================================================== */
 
 
-
-.author__avatar img {
-    max-width: 150px;      /* Adjust width as needed */
-    max-height: 300px;     /* Adjust height as needed */
-    border-radius: 0;      /* To make it a rectangle */
-    padding: 5px;
-    border: 1px solid $border-color;
-}
-
-
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  width: 100px;   // This will set the width of the image container
+  height: 200px;  // This will set the height of the image container
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
-    height: auto;
+    width: 100px;   // Adjust this as needed for larger screens
+    height: 200px;  // Adjust this as needed for larger screens
   }
 
   img {
-    max-width: 175px;
-    max-height: 300px;     // Added for portrait dimension
-    // border-radius: 50%; // Commented out to remove circular appearance
+    width: 100%;    // This ensures the image takes up the full width of its container
+    height: 100%;   // This ensures the image takes up the full height of its container
+    border-radius: 0;  // This ensures the image is not circular
 
     @include breakpoint($large) {
       padding: 5px;
@@ -104,6 +93,8 @@
     }
   }
 }
+
+
 
 .author__content {
   display: table-cell;
