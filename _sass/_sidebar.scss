@@ -69,6 +69,17 @@
    Author profile and links
    ========================================================================== */
 
+
+
+.author__avatar img {
+    max-width: 150px;      /* Adjust width as needed */
+    max-height: 300px;     /* Adjust height as needed */
+    border-radius: 0;      /* To make it a rectangle */
+    padding: 5px;
+    border: 1px solid $border-color;
+}
+
+
 .author__avatar {
   display: table-cell;
   vertical-align: top;
@@ -84,7 +95,8 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    max-height: 300px;     // Added for portrait dimension
+    // border-radius: 50%; // Commented out to remove circular appearance
 
     @include breakpoint($large) {
       padding: 5px;
