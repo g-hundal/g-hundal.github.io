@@ -73,12 +73,12 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 100px;   // This will set the width of the image container
+  width: 200px;   // This will set the width of the image container
   height: 200px;  // This will set the height of the image container
 
   @include breakpoint($large) {
     display: block;
-    width: 100px;   // Adjust this as needed for larger screens
+    width: 200px;   // Adjust this as needed for larger screens
     height: 200px;  // Adjust this as needed for larger screens
   }
 
@@ -88,7 +88,7 @@
     border-radius: 0;  // This ensures the image is not circular
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 3px;
       border: 1px solid $border-color;
     }
   }
