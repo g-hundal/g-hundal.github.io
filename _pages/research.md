@@ -18,7 +18,7 @@ author_profile: true
 
 #### Development Impact Evaluation (DIME), World Bank, Washington, DC:
 
-- **Impact of Safety Technology on Women's Labor Force Participation**: _with Girija Borker (Jul 2018- Jul 2020)_. A randomized controlled trial in India with approximately 6000 participants to determine the efficacy of safety technology on enhancing labor force participation for women.
+- **Impact of Safety Technology on Women's Labor Force Participation**: _with Girija Borker (Jul 2019- Jul 2020)_. A randomized controlled trial in India with approximately 6000 participants to determine the efficacy of safety technology on enhancing labor force participation for women.
   
 - **Evaluating Social Costs of Road Traffic Crashes**: _with Théophile Bougna and Peter Taniform (Jul 2018- Jul 2019)_. In this paper, published in *Accident Analysis & Prevention* (Vol. 165, pp. 106282), we reviewed the socio-economic costs associated with road traffic crashes. We compared the willingness-to-pay (WTP) and human capital (HC) methodologies, revealing that WTP-based analyses typically estimate socio-economic costs that are approximately 1% higher as a percentage of GDP than those using the HC approach.
 
