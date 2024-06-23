@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 ## Ongoing Research 
-1. **Persistence of Origin-Based Social Norms Among Migrants** _with Naira Kalra and Oyebola Okunogbe_. Investigating the enduring influence of origin-based norms on intimate partner violence among migrants, this study unveils the deep-rooted societal norms influencing migrant behaviors, vital for policy interventions.
+1. **Persistence of Origin-Based Social Norms Among Migrants** _with Naira Kalra and Oyebola Okunogbe_: Investigating the enduring influence of origin-based norms on intimate partner violence (IPV) among migrant couples in India, this study unveils the deep-rooted norms influencing migrant couples' IPV behaviors, vital for policy interventions. _(Working paper available upon request)_
 
-2. **Effects of Paid Labor Market Exposure on Transition After High School** _with Emma Zhang_. Exploring the transformative impact of early labor exposure on high school students' post-academic trajectories, this research is pivotal in reshaping educational and labor policies, especially for economically marginalized groups.
+2. **Effects of Paid Labor Market Exposure on Transition After High School** _with Emma Zhang_: Exploring the transformative impact of early labor exposure on high school students' post-academic trajectories, this research is pivotal in reshaping educational and labor policies, especially for economically marginalized groups.
 
-3. **Gendered Attitudes Towards Financial Risk: Gain Preferences versus Loss Aversion** _with Emma Zhang_. Delving into gender-specific financial behaviors, and emphasizing reactions to potential losses versus gains, the findings help us understand and address gender disparities in financial decision-making landscapes.
+3. **Gendered Attitudes Towards Financial Risk: Gain Preferences versus Loss Aversion** _with Emma Zhang_: Delving into gender-specific financial behaviors, and emphasizing reactions to potential losses versus gains, the findings help us understand and address gender disparities in financial decision-making landscapes.
 
-4. **Effects of Poor Oral Health on Systemic Health Outcomes** _with Maya Lozinski_. Examining the broader health and socio-economic repercussions of oral health disparities, with potential implications for labor and healthcare policies as well as public awareness of oral health.
+4. **Effects of Poor Oral Health on Systemic Health Outcomes**: Examining the broader health and socio-economic repercussions of oral health disparities, with potential implications for labor and healthcare policies as well as public awareness of oral health.
 
 ## Past Research 
 
