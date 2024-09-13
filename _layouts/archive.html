@@ -12,18 +12,13 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" class="page" role="main">
-  <section class="page__inner-wrap">
+<div id="main" role="main">
+  {% include sidebar.html %}
 
-    <!-- Sidebar inclusion -->
-    {% include sidebar.html %}
-
-    <div class="page__content archive">
-      {% unless page.header.overlay_color or page.header.overlay_image %}
-        <h1 class="page__title">{{ page.title }}</h1>
-      {% endunless %}
-      {{ content }}
-    </div>
-
-  </section>
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+    {{ content }}
+  </div>
 </div>
