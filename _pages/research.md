@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## Ongoing Research 
-1. **Persistence of Origin-Based Social Norms Among Migrants** _with Naira Kalra and Oyebola Okunogbe_: Investigating the enduring influence of origin-based norms on intimate partner violence (IPV) among migrant couples in India, this study unveils the deep-rooted norms influencing migrant couples' IPV behaviors, vital for policy interventions. _(Working paper available upon request)_
+1. **Persistence of Origin-Based Social Norms Among Migrants** _with Naira Kalra and Oyebola Okunogbe_: Investigating the enduring influence of origin-based norms on intimate partner violence (IPV) among migrant couples in India, we find the stickiness of deep-rooted norms influencing migrant couples' IPV behaviors. _(Working paper available upon request)_
 
-2. **Effects of Labor Market Exposure on Transition After High School** _with Emma Zhang_: Exploring the transformative impact of early labor exposure on high school students' post-academic trajectories, this research is pivotal in reshaping educational and labor policies, especially for economically marginalized groups.
+2. **Effects of Labor Market Exposure on Transition After High School** _with Emma Zhang_: Exploring the impact of early labor market exposure via short internships on low-income high school students. This research is pivotal in reshaping educational and labor policies, especially for economically marginalized groups.
 
 3. **Gendered Attitudes Towards Financial Risk: Gain Preferences versus Loss Aversion** _with Emma Zhang_: Delving into gender-specific financial behaviors, and emphasizing reactions to potential losses versus gains, the findings help us understand and address gender disparities in financial decision-making landscapes.
 
