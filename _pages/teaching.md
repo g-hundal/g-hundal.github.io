@@ -11,11 +11,12 @@ author_profile: true
 * **Preceptor** for advising the senior BA thesis for 10 undergraduate students (2023-24 academic year).
 * **Head Teaching Assistant** for the graduate Math and Coding Camp, leading a team of 24 TAs and serving 500+ students (Summer 2023, Summer 2022).
 * **Teaching Assistant** for the following courses:
-  * Crony Capitalism by Luigi Zingales (Spring 2024)
+  * How to Change the World: The Social Science of Policymaking in International Development by Christopher Blattman (Fall 2024).
+  * Crony Capitalism by Luigi Zingales (Spring 2024).
   * Behavioral Experiments in International Development: From Theory to Practice by Mareike Schomerus (Spring 2023).
   * Cost-Benefit Analysis by Robert Kaestner (Fall 2022).
   * Behavioral Science and Public Policy by Kim Wolske (Spring 2023, Spring 2022).
   * Public Policy Analysis by Jim Leitzel (Winter 2022).
 
 **Carnegie Mellon University**  
-* I served as a **Teaching Assistant** for the courses Research Writing (Fall 2016, Fall 2017) and International Development Economics (Spring 2018).
+* **Teaching Assistant** for the courses Research Writing (Fall 2016, Fall 2017) and International Development Economics (Spring 2018).
