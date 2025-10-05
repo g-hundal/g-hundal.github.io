@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Snapshot
-Drawing on my data science and public policy foundation, I specialize in development and behavioral economics, focusing on gendered disparities in education and the labor markets.
+I specialize in development and behavioral economics, and use experiments to study gendered disparities in education and labor markets.
 
 ## From Fieldwork to Frameworks
 My journey into development began as the co-founder of [Project Reach Foundation](https://resolutionproject.org/ventures/project-reach/), which aimed to combat bottlenecks in neonatal immunization in rural India. Driven by a desire to uncover insights into gendered economic experiences, I am now pursuing my Ph.D. in Public Policy at the University of Chicago, with a focus on Development and Behavioral Economics. 
