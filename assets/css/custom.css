@@ -4,32 +4,50 @@ body {
   font-family: 'EB Garamond', serif;
 }
 
-/* === Larger + centered headshot (matches both figure or div forms) === */
-body.home, .layout--home {
-  text-align: center;
-}
-
-.author__avatar,
-.sidebar__author-avatar,
-figure.author__avatar {
+/* === HOMEPAGE ONLY: Larger and centered headshot === */
+.layout--home .author__avatar,
+.layout--home .sidebar__author-avatar,
+.layout--home figure.author__avatar {
   display: flex !important;
   justify-content: center !important;
-  margin-top: 1.5em;
-  margin-bottom: 1.5em;
+  margin-top: 0.5em;       /* bring image slightly higher */
+  margin-bottom: 1em;
 }
 
-.author__avatar img,
-.sidebar__author-avatar img,
-figure.author__avatar img {
-  width: 260px !important;       /* make it larger */
-  height: auto !important;       /* keep original aspect ratio */
-  border-radius: 0 !important;   /* remove circular mask (square shape) */
+.layout--home .author__avatar img,
+.layout--home .sidebar__author-avatar img,
+.layout--home figure.author__avatar img {
+  width: 260px !important;       /* adjust size */
+  height: auto !important;
+  border-radius: 0 !important;   /* square shape */
   object-fit: contain !important;
-  box-shadow: none;              /* optional: remove shadow */
+  box-shadow: none;
   animation: fadeInUp 1.2s ease-out 0.3s both;
 }
 
-/* === Simple fade-in animation === */
+/* Center homepage text under image */
+.layout--home .author__content {
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+/* Responsive: scale down image on small screens */
+@media (max-width: 600px) {
+  .layout--home .author__avatar img,
+  .layout--home .sidebar__author-avatar img,
+  .layout--home figure.author__avatar img {
+    width: 180px !important;
+  }
+}
+
+/* === OTHER PAGES: Move sidebar image upward === */
+.sidebar__author-avatar,
+.author__avatar,
+figure.author__avatar {
+  margin-top: -10px !important;   /* move image up in sidebar */
+}
+
+/* === Fade-in animation === */
 @keyframes fadeInUp {
   0% { opacity: 0; transform: translateY(15px); }
   100% { opacity: 1; transform: translateY(0); }
