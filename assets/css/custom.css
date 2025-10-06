@@ -21,11 +21,11 @@ figure.author__avatar {
 .author__avatar img,
 .sidebar__author-avatar img,
 figure.author__avatar img {
-  width: 200px !important;
-  height: 200px !important;
-  border-radius: 50% !important;
-  object-fit: cover !important;
-  box-shadow: 0 0 12px rgba(0, 0, 0, 0.15);
+  width: 260px !important;       /* make it larger */
+  height: auto !important;       /* keep original aspect ratio */
+  border-radius: 0 !important;   /* remove circular mask (square shape) */
+  object-fit: contain !important;
+  box-shadow: none;              /* optional: remove shadow */
   animation: fadeInUp 1.2s ease-out 0.3s both;
 }
 
