@@ -62,3 +62,19 @@
   text-align: center;
   margin-bottom: 1em;
 }
+
+/* === Subtle Fade-In Animation for Headshot === */
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.layout--home .author__avatar img {
+  animation: fadeInUp 1.2s ease-out 0.3s both; /* duration: 1.2s, delay: 0.3s */
+}
