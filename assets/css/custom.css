@@ -4,28 +4,27 @@ body {
   font-family: 'EB Garamond', serif;
 }
 
-/* === HOMEPAGE ONLY: Larger and centered headshot === */
+/* =========================================================
+   HOMEPAGE-ONLY: large, square, centered, fade-in avatar
+   ========================================================= */
 .layout--home .author__avatar,
-.layout--home .sidebar__author-avatar,
 .layout--home figure.author__avatar {
   display: flex !important;
   justify-content: center !important;
-  margin-top: 0.5em;       /* bring image slightly higher */
+  margin-top: 0.5em;
   margin-bottom: 1em;
 }
 
 .layout--home .author__avatar img,
-.layout--home .sidebar__author-avatar img,
 .layout--home figure.author__avatar img {
-  width: 260px !important;       /* adjust size */
+  width: 260px !important;      /* adjust to taste */
   height: auto !important;
-  border-radius: 0 !important;   /* square shape */
+  border-radius: 0 !important;  /* keep square */
   object-fit: contain !important;
   box-shadow: none;
   animation: fadeInUp 1.2s ease-out 0.3s both;
 }
 
-/* Center homepage text under image */
 .layout--home .author__content {
   text-align: center;
   margin-bottom: 1em;
@@ -34,20 +33,23 @@ body {
 /* Responsive: scale down image on small screens */
 @media (max-width: 600px) {
   .layout--home .author__avatar img,
-  .layout--home .sidebar__author-avatar img,
   .layout--home figure.author__avatar img {
     width: 180px !important;
   }
 }
 
-/* === OTHER PAGES: Move sidebar image upward === */
-.sidebar__author-avatar,
-.author__avatar,
-figure.author__avatar {
-  margin-top: -10px !important;   /* move image up in sidebar */
+/* =========================================================
+   OTHER PAGES: move sidebar avatar up slightly
+   ========================================================= */
+body:not(.layout--home) .sidebar__author-avatar,
+body:not(.layout--home) .author__avatar,
+body:not(.layout--home) figure.author__avatar {
+  margin-top: -20px !important;   /* raise sidebar image */
 }
 
-/* === Fade-in animation === */
+/* =========================================================
+   Fade-in animation definition
+   ========================================================= */
 @keyframes fadeInUp {
   0% { opacity: 0; transform: translateY(15px); }
   100% { opacity: 1; transform: translateY(0); }
