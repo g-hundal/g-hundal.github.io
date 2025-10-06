@@ -1,7 +1,9 @@
 {% include base_path %}
 
 <!-- start custom head snippets -->
-<link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+<!-- Ensure custom.css loads LAST -->
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}" media="all">
+
 
 <link rel="apple-touch-icon" sizes="57x57" href="{{ base_path }}/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="60x60" href="{{ base_path }}/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
@@ -35,5 +37,9 @@
   });
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+<!-- Force reapply custom overrides -->
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}" media="all">
 
 <!-- end custom head snippets -->
