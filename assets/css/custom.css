@@ -3,39 +3,31 @@
 body {
   font-family: 'EB Garamond', serif;
 }
-
 /* =========================================================
-   HOMEPAGE (layout--single): large, square, centered avatar
+   HOMEPAGE (body.home-page): large, centered avatar
    ========================================================= */
-.layout--single .author__avatar {
+.home-page .author__avatar {
   display: flex !important;
   justify-content: center !important;
   margin-top: 0.5em;
   margin-bottom: 1em;
 }
 
-.layout--single .author__avatar img {
-  width: 360px !important;     /* make larger; try 320–380px if needed */
+.home-page .author__avatar img {
+  width: 380px !important;       /* adjust size here */
   height: auto !important;
-  border-radius: 0 !important; /* keep square edges */
+  border-radius: 0 !important;
   object-fit: cover !important;
   box-shadow: none;
   animation: fadeInUp 1.2s ease-out 0.3s both;
 }
 
-/* Center the text under image on homepage */
-.layout--single .author__content {
-  text-align: center;
-  margin-bottom: 1em;
-}
-
-/* Responsive: smaller image on mobile */
+/* Smaller image on mobile */
 @media (max-width: 600px) {
-  .layout--single .author__avatar img {
+  .home-page .author__avatar img {
     width: 220px !important;
   }
 }
-
 /* =========================================================
    OTHER PAGES: move sidebar avatar upward
    ========================================================= */
