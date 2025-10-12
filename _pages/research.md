@@ -15,7 +15,7 @@ We evaluate a randomized internship program by offering 80-hour workplace placem
 
 ---
 
-## Working Papers
+## Work in Progress
 
 ### **Language of Violence: Persistence of Origin-Based Social Norms Among Migrant Couples** (with Naira Kalra and Oyebola Okunogbe)  
 We examine how social norms embedded in place of origin shape intimate partner violence (IPV) among migrant couples in India. Using a novel classification of internal migrants based on mother tongue and language belts in the National Family Health Survey, we link historical IPV rates in origin regions to current experiences of migrant wives. A one percentage point increase in IPV prevalence at origin predicts a 0.4 percentage point rise in current IPV, even after rich controls and fixed effects. Mechanism analyses show that intergenerational beliefs, especially wives’ acceptance of wife-beating formed from parental exposure, mediate the persistence of these norms. The results highlight the stickiness of cultural norms across migration and underscore how deeply rooted origin-based norms continue to shape household violence despite new social and institutional environments.
