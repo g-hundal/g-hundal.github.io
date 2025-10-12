@@ -83,3 +83,23 @@ body:not(.layout--single) .author__avatar {
     margin-top: -255px !important; /* move text upward more */
   }
 }
+
+
+/* Disable text selection and right-click on CV page */
+.page[data-url="/cv/"] {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.page[data-url="/cv/"] iframe {
+  pointer-events: none !important;
+}
+
+/* Optional: disable right-click globally on CV page */
+body.page--cv {
+  pointer-events: none;
+}
+
+
