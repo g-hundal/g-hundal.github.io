@@ -80,6 +80,6 @@ body:not(.layout--single) .author__avatar {
   .home-page .page__content,
   .home-page .page,
   .home-page article {
-    margin-top: -250px !important; /* move text upward more */
+    margin-top: -255px !important; /* move text upward more */
   }
 }
