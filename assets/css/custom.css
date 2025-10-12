@@ -72,3 +72,11 @@ body:not(.layout--single) .author__avatar {
   justify-content: center;
 }
 
+/* =========================================================
+   HOMEPAGE: vertically align text with larger avatar
+   ========================================================= */
+@media (min-width: 1024px) {
+  .home-page .page__main {
+    margin-top: -120px !important;  /* move text upward */
+  }
+}
