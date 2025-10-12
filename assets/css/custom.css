@@ -47,14 +47,23 @@ body:not(.layout--single) .author__avatar {
 /* =========================================================
    HOMEPAGE: widen sidebar so avatar can grow
    ========================================================= */
-.home-page .sidebar {
-  flex: 0 0 360px !important;      /* make the sidebar about 360 px wide */
-  max-width: 360px !important;
-}
+/* =========================================================
+   HOMEPAGE: safely widen sidebar using grid span override
+   ========================================================= */
+@media (min-width: 1024px) {
+  .home-page .sidebar {
+    width: 320px !important;      /* wider sidebar */
+    padding-right: 1rem !important;
+  }
 
-.home-page .page__content {
-  flex: 1 1 auto !important;
-  max-width: calc(100% - 360px) !important; /* let content shrink a bit */
+  .home-page .page__main {
+    margin-left: 340px !important; /* shift content so it aligns properly */
+    max-width: calc(100% - 360px) !important;
+  }
+
+  .home-page .author__avatar img {
+    width: 320px !important;      /* match sidebar width */
+  }
 }
 
 /* optional: center avatar nicely inside wider sidebar */
