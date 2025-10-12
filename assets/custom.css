@@ -3,3 +3,16 @@
 body {
     font-family: 'EB Garamond', serif;
 }
+
+
+/* Make the author photo larger only on the homepage */
+.home-page .author__avatar {
+  width: 160% !important;           /* make container wider */
+  padding-bottom: 160% !important;  /* keep square ratio */
+  margin-left: -30%;                /* re-center horizontally */
+}
+
+.home-page .author__avatar img {
+  object-fit: cover;
+  border-radius: 0;
+}
