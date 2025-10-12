@@ -43,3 +43,23 @@ body:not(.layout--single) .author__avatar {
   0% { opacity: 0; transform: translateY(15px); }
   100% { opacity: 1; transform: translateY(0); }
 }
+
+/* =========================================================
+   HOMEPAGE: widen sidebar so avatar can grow
+   ========================================================= */
+.home-page .sidebar {
+  flex: 0 0 360px !important;      /* make the sidebar about 360 px wide */
+  max-width: 360px !important;
+}
+
+.home-page .page__content {
+  flex: 1 1 auto !important;
+  max-width: calc(100% - 360px) !important; /* let content shrink a bit */
+}
+
+/* optional: center avatar nicely inside wider sidebar */
+.home-page .author__avatar {
+  width: 100% !important;
+  justify-content: center;
+}
+
