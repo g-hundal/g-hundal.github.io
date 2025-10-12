@@ -9,17 +9,12 @@ redirect_from:
 ---
 
 ## Snapshot
-I specialize in development and behavioral economics, and use experiments to study gendered disparities in education and labor markets.
+
+I am a Ph.D. candidate in Public Policy at the University of Chicago. My research lies at the intersection of development, behavioral, and labor economics. I study how information, norms, and visible traits shape education and labor-market outcomes in low-income settings.
+
+**I am on the 2025–26 academic job market.**
+
 
 ## From Fieldwork to Frameworks
-My journey into development began as the co-founder of [Project Reach Foundation](https://resolutionproject.org/ventures/project-reach/), which aimed to combat bottlenecks in neonatal immunization in rural India. Driven by a desire to uncover insights into gendered economic experiences, I am now pursuing my Ph.D. in Public Policy at the University of Chicago, with a focus on Development and Behavioral Economics. 
-My prior education in Data Analytics from Carnegie Mellon University has equipped me to work at the fascinating confluence of machine learning and economics. Currently, I am also a researcher at the World Bank Group, and my past work includes research projects in gender and transport at the Development Impact Evaluation (DIME) team. 
-
-## Current Research Highlights
-My ongoing research projects include the exploration of:
-- **Origin-Based Norms:** Understanding their influence on intimate partner violence among migrants.
-- **Higher Education and Labor-Market Exposure:** Analyzing the impact of internships on post-high school trajectories for low-income students.
-- **Gendered Financial Behaviors:** Emphasizing nuances in the context of gains and losses.
-- **Oral Health Disparities:** Exploring their broader socio-economic consequences.
-
-For details on these projects and more on my past research contributions, [visit my Research page](https://g-hundal.github.io/research/).
+My journey into development began as an undergraduate in India, where I co-founded the [Project Reach Foundation](https://resolutionproject.org/ventures/project-reach/), a nonprofit that focused on closing immunization gaps for infants. That early exposure to local institutions and the challenges of implementation shape how I design and interpret field experiments today.
+Before starting my Ph.D. at the University of Chicago, I trained in data analytics and policy at Carnegie Mellon University, which equipped me to combine econometrics with experimental design. I have also worked with the World Bank’s Development Impact Evaluation (DIME) and Development Research Group (DRG) teams on projects related to transport and gender.
