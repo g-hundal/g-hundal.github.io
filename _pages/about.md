@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Rubina Hundal"
+title: "Gursmeep (Rubina) Hundal"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## Snapshot
 
 I am a Ph.D. candidate in Public Policy at the University of Chicago. My research lies at the intersection of development, behavioral, and labor economics. I study how information, norms, and visible traits shape education and labor-market outcomes in low-income settings.
 
