@@ -15,10 +15,10 @@ body {
 }
 
 .layout--single .author__avatar img {
-  width: 260px !important;     /* increase/decrease as you like */
+  width: 360px !important;     /* make larger; try 320–380px if needed */
   height: auto !important;
-  border-radius: 0 !important; /* square shape */
-  object-fit: contain !important;
+  border-radius: 0 !important; /* keep square edges */
+  object-fit: cover !important;
   box-shadow: none;
   animation: fadeInUp 1.2s ease-out 0.3s both;
 }
@@ -32,7 +32,7 @@ body {
 /* Responsive: smaller image on mobile */
 @media (max-width: 600px) {
   .layout--single .author__avatar img {
-    width: 180px !important;
+    width: 220px !important;
   }
 }
 
