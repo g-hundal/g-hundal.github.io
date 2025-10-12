@@ -76,8 +76,10 @@ body:not(.layout--single) .author__avatar {
    HOMEPAGE: vertically align text with larger avatar
    ========================================================= */
 @media (min-width: 1024px) {
+  .home-page .page__main,
   .home-page .page__content,
-  .home-page .page__inner-wrap {
-    margin-top: -120px !important; /* move text upward */
+  .home-page .page,
+  .home-page article {
+    margin-top: -180px !important; /* move text upward more */
   }
 }
