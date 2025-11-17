@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Public Policy at the University of Chicago. My research lies at the intersection of development, behavioral, and labor economics. I study how information, norms, and visible traits shape education and labor-market outcomes in low-income settings.
+I am a Ph.D. candidate in Public Policy at the University of Chicago. I work in development, labor, and behavioral economics, studying how inequality restricts access to opportunity and evaluating interventions that improve mobility in low-income labor markets.
 
 **I am on the 2025–26 academic job market.**
 
