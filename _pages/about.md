@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the University of Chicago Harris School of Public Policy. I work in development, labor, and behavioral economics, studying how inequality restricts access to opportunity and evaluating interventions that improve mobility in low-income labor markets.
+I am a Ph.D. candidate at the University of Chicago Harris School of Public Policy. As an applied microeconomist, I work in development, labor, and behavioral economics, studying how inequality restricts access to opportunity and evaluating interventions that improve mobility in low-income labor markets.
 
 **I am on the 2025–26 academic job market.**
 
