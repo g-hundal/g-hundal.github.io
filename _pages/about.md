@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Economics at McMaster University, jointly appointed with the Wilson College of Leadership and Civic Engagement. I completed my Ph.D. at the University of Chicago Harris School of Public Policy in 2026. As an applied microeconomist, I work in development, labor, and behavioral economics, studying how inequality restricts access to opportunity and evaluating interventions that improve mobility in low-income contexts.
+I am an Assistant Professor of Economics at McMaster University, jointly appointed with the Wilson College of Leadership and Civic Engagement. 
+I completed my Ph.D. at the University of Chicago Harris School of Public Policy in 2026. As an applied microeconomist, I work in development, labor, and behavioral economics, studying how inequality restricts access to opportunity and evaluating interventions that improve mobility in low-income contexts.
 
 ## From Fieldwork to Frameworks
 My journey into development began as an undergraduate in India, where I co-founded the [Project Reach Foundation](https://resolutionproject.org/ventures/project-reach/), a nonprofit that focused on closing immunization gaps for infants. That early exposure to local institutions and the challenges of implementation shape how I design and interpret field experiments today.
