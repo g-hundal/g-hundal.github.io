@@ -11,7 +11,6 @@ I study how a visible but remediable marker of poverty, dental appearance, affec
 We evaluate a randomized internship program offering 80-hour placements to low-income high-school students in urban India, testing whether brief labor-market exposure updates beliefs about employment and returns to education. Interns value career information 7–8% more than controls and revise expected earnings and job-search durations, with larger updates among girls. Aspirations remain high in both groups, but treated students form more realistic expectations about the school-to-work transition.
 ### **Language of Violence: Persistence of Origin-Based Social Norms Among Migrant Couples** (with Naira Kalra and Oyebola Okunogbe)  
 We examine how social norms from place of origin shape intimate partner violence (IPV) among migrant couples in India, linking historical IPV rates in origin regions to current experiences of migrant wives. A one percentage point increase in origin IPV predicts a 0.4 percentage point rise in current IPV, driven by intergenerational beliefs, particularly wives' acceptance of wife-beating formed through parental exposure. Results show that origin-based cultural norms persist across migration despite new social and institutional environments.
-
 ---
 ## Work in Progress
 ### **Sibling Socialization and the Formation of Labor-Force Norms in India** (with Emma Zhang)  
@@ -20,7 +19,6 @@ We study how sibling gender composition shapes labor market aspirations and job 
 We study how framing and gender interact in financial risk-taking in the US. Two experiments, one on preferences over gains and losses under ambiguity, another randomizing a group-chat intervention, show that men and women differ not in preferences over gains but in loss aversion. Traders are more sensitive to gains than non-traders, while loss-avoidance messaging increases willingness to invest among new investors. A follow-up study tests whether "loss reassurance" or "gain celebration" framings better promote stock market participation. [Results](https://www.dropbox.com/scl/fi/s0qvh67u7np9jyzeitv6q/Saving-with-Stocks.pdf?rlkey=3a7et31imuptpov5pynwx76h9&dl=0)
 ### **Aspirations and Inaction Among High-School Students in India** (with Rajdev Brar)  
 At the end of Grade 10, students in India choose a junior college and academic stream, a decision that shapes long-run career trajectories, yet many approach it with limited knowledge of admissions requirements and pathways. We are running a large-scale RCT across 200 government schools testing whether encouraging active information search, rather than direct provision, improves students' understanding of educational options and the alignment of selected streams with their aspirations. Data collection is underway.
-
 ---
 ## Projects in Development
 ### **Visa Vows: Migration, Marriage, and Cultural Remittances in India** (with Mridul Joshi)  
