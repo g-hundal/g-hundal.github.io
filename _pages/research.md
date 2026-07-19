@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 ## Working Papers
-### [**Discrimination on a Mutable Trait: Labor-Market Penalties for Oral Appearance**]
+### **Discrimination on a Mutable Trait: Labor-Market Penalties for Oral Appearance**
 I study how a visible but remediable marker of poverty, dental appearance, affects hiring in urban India. A randomized headshot experiment and an incentivized resume-rating study with hiring professionals show that poor oral health lowers perceived confidence, predicted wages, and hire scores, especially in customer-facing roles. Effects attenuate once I control for employers' forecasts of customer and coworker reactions, pointing to anticipated third-party discrimination rather than pure productivity beliefs. Findings suggest health and appearance interventions are an underused lever for labor-market mobility.
-### [**Learning by Doing (Work): Experimental Evidence from a School-Based Internship Program in India**] (with Emma Zhang)
+### **Learning by Doing (Work): Experimental Evidence from a School-Based Internship Program in India** (with Emma Zhang)
 We evaluate a randomized internship program offering 80-hour placements to low-income high-school students in urban India, testing whether brief labor-market exposure updates beliefs about employment and returns to education. Interns value career information 7–8% more than controls and revise expected earnings and job-search durations, with larger updates among girls. Aspirations remain high in both groups, but treated students form more realistic expectations about the school-to-work transition.
 ### **Language of Violence: Persistence of Origin-Based Social Norms Among Migrant Couples** (with Naira Kalra and Oyebola Okunogbe)  
 We examine how social norms from place of origin shape intimate partner violence (IPV) among migrant couples in India, linking historical IPV rates in origin regions to current experiences of migrant wives. A one percentage point increase in origin IPV predicts a 0.4 percentage point rise in current IPV, driven by intergenerational beliefs, particularly wives' acceptance of wife-beating formed through parental exposure. Results show that origin-based cultural norms persist across migration despite new social and institutional environments.
