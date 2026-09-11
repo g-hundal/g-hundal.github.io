@@ -5,6 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
+**McMaster University**
+* ECON 3EE3 - Econometrics I (Fall 2026).
+* ECON 3T03 - Economic Development (Fall 2026).
+  
 **University of Chicago**
 * **Math Instructor** for the Math and Coding Camp for all incoming graduate students (Summer 2024).
 * **Instructor** for the graduate course: Mathematical Methods (Fall 2023, Fall 2022).
